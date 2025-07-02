@@ -1,5 +1,5 @@
-<!--
 ## Hi there 👋 I'm Sally
+<!--
 **sally915/sally915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-Hey there, I’m Sally 👋 <br>
 Welcome to my GitHub space!
 
 👩‍💻 About Me <br>
